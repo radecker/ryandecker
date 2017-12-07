@@ -6,5 +6,5 @@ $(document).ready(function(){
     		$('#69').text("Ryan Decker");
     		$('#69').fadeIn(1500);
   		}, 1500)
-	}, 1500);
+	}, 2000);
 });
