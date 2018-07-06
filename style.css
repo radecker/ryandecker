@@ -26,6 +26,13 @@
 	float: right;
 }
 
+.nav-text{
+  text-align: center;
+  font-size: 20px;
+  font-family: Droid Sans;
+  color: white;
+}
+
 .hero-image {
   background-image: url("Content\\Mars.jpg");
   height: 100%;
@@ -46,11 +53,21 @@
   color: white;
 }
 
+.name-text{
+  text-align: center;
+  font-size: 25px;
+  font-family: Droid Sans;
+  color: white;
+}
+
 .navbar {
       margin-bottom: 0;
       border-radius: 0;
     }
     
+p.indent{ 
+  text-indent: 30px
+}
     /* Add a gray background color and some padding to the footer */
 footer {
   background-color: #f2f2f2;
